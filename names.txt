@@ -3,3 +3,7 @@ Bertie Wooster
 Cecily Cardew
 Dahlia Travers
 Edwin Worplestone
+<<<<<<< HEAD
+=======
+Clinton Stanford
+>>>>>>> s{220109784}

@@ -1,0 +1,3 @@
+string[] message = new string[10];
+message = "helloWorld";
+>_<

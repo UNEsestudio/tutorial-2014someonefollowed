@@ -1,9 +1,16 @@
+Ryan Cole
 Algernon Moncrieff
 Bertie Wooster
 Cecily Cardew
 Dahlia Travers
+<<<<<<< HEAD
 Edwin Worplestone
 <<<<<<< HEAD
 =======
 Clinton Stanford
 >>>>>>> s{220109784}
+=======
+Daly Barron
+Edwin Worplestone
+Patrick Packham
+>>>>>>> 58d6068408a4b9c0fc5d7cfdef3d8ec8a2c6d14d

@@ -1,0 +1,3 @@
+Debug.log("message");
+
+// yeah, i know this doesn't work
